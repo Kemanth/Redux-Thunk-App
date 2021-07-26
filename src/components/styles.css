@@ -1,0 +1,10 @@
+.wrapper{
+    background-color:bisque;
+    padding: 10px;
+    margin: 5px;
+}
+
+span{
+    display: flex;
+    justify-content: flex-end;  
+}
